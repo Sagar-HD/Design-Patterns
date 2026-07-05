@@ -22,8 +22,9 @@ public class PondOfDucks {
 
 
         //all code that to call duck is kept in abstract class and inherited
-        //all code which may differ duck by duck and may change on time is kept as interface and given some implementation
-        //the differable and changable code is abtracted in abstract parent class using interface
+        //contract is created using interface
+        //all code which may differ duck by duck and may change on time is implemented by classes by implementing interface
+        //the differable and changable methods are abtracted in abstract parent class using interface
 
     }
 }
