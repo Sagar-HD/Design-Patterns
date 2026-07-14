@@ -24,6 +24,8 @@ Design patterns
             instantiation to subclasses.
             (We made abstract pizza store and abstract createpizza factory method
              which must be implemented by sub classes)
+5.Singleton : The Singleton Pattern ensures a class has only one
+              instance, and provides a global point of access to it
 
 
 Object Oriented Principles | which patterns introduced it to me | what problem made us to do this
