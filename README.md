@@ -27,6 +27,8 @@ Design patterns
 5.Singleton : The Singleton Pattern ensures a class has only one
               instance, and provides a global point of access to it
 
+6.Builder : The Builder Pattern separates the construction of a complex object from its representation.
+
 
 Object Oriented Principles | which patterns introduced it to me | what problem made us to do this
 
