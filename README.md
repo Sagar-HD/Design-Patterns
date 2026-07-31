@@ -29,6 +29,7 @@ Design patterns
 
 6.Builder : The Builder Pattern separates the construction of a complex object from its representation.
 
+7.Proxy : The Proxy Pattern provides a surrogate or placeholder for another object to control access to it.
 
 Object Oriented Principles | which patterns introduced it to me | what problem made us to do this
 
