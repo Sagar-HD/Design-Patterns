@@ -1,0 +1,28 @@
+package templete;
+
+public abstract class CaffineBeverage {
+    public void prepare(){
+        boilWater();
+        brew();
+        pourInCup();
+        if(hook()) {
+            addCondiments();
+        }
+    }
+
+      protected abstract void brew();
+     protected  abstract  void addCondiments();
+
+
+    public void boilWater(){
+        System.out.println("Boiling water");
+    }
+    public void pourInCup(){
+        System.out.println("Pouring into cup");
+    }
+
+    public boolean hook(){
+        return true;
+    }
+
+}

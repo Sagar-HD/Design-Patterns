@@ -31,6 +31,8 @@ Design patterns
 
 7.Proxy : The Proxy Pattern provides a surrogate or placeholder for another object to control access to it.
 
+8.Templete : Define the skeleton of an algorithm in a base class and let subclasses override specific steps without changing the overall structure.
+
 Object Oriented Principles | which patterns introduced it to me | what problem made us to do this
 
      1.Encapsulate what varies.  (statergy) -> 
